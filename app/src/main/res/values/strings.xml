@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Dead by Daylight models are being sold as NFTs, no one is pleased</string>
+    <string name="tanggal">senin, 19 desember 2012 7 menit</string>
+    <string name="person">Aya Maruyamaシ</string>
+    <string name="content_news">Dead by Daylight models are being sold as NFTs, no one is pleased</string>
+    <string name="content_img_news_detail">Image News Detail</string>
+</resources>
